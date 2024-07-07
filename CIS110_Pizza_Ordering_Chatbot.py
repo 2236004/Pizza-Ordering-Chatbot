@@ -40,4 +40,4 @@ if total >= 50:
     print ("\nCongratulations! Your've been awarded a $10 Off coupon for your next order.")
 else:
     print("\nOrder over $50 will receive a free $10 Off coupon!")
-print("-" * 10)
+print("-" * 10) 
